@@ -13,7 +13,7 @@ This project is aimed at creating a pipeline for handling multimodal data, focus
 
 ### Dependencies
 
-- Python 3.x
+- Python 3.10
 - Dependencies listed in `requirements.txt`
 
 ---
