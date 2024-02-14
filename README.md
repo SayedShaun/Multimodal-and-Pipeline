@@ -8,7 +8,7 @@ This project is aimed at creating a pipeline for handling multimodal data, focus
 
 - **train.py**: This Python script is responsible for training the models. It imports the necessary modules, sets up the training environment, and executes the training process using the specified model architecture and training data.
 
-- **vision_model.py**: This Python script defines the architecture of the vision model. It includes classes for building, compiling, and training convolutional neural networks (CNNs) or other vision-related models.
+- **vision_model.py**: This Python script defines the architecture of the vision model. It includes classes for building, compiling, and training CNN and RNN models.
 
 
 ### Dependencies
